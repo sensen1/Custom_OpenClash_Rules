@@ -1,98 +1,14 @@
-# 内容：OpenAi
-# 数量：71条
-
-# DOMAIN
+# 作为自己的补充
 
 DOMAIN,free.netfly.top
-DOMAIN,talk1.985302.xyz
 DOMAIN,winsky.onrender.com
 DOMAIN,scamalytics.com
-
-# bing
-
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bing.net
-
-# DOMAIN SUFFIX
-
 DOMAIN-SUFFIX,bewildcard.com
 DOMAIN-SUFFIX,intercomassets.com
 DOMAIN-SUFFIX,intercom-sheets.com
 DOMAIN-SUFFIX,phind.com
 
-
-DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,elevenlabs.io
-DOMAIN-SUFFIX,ai2sql.io
-DOMAIN-SUFFIX,akamaized.net
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,azureedge.net
-DOMAIN-SUFFIX,azurefd.net
-DOMAIN-SUFFIX,blob.core.windows.net
-DOMAIN-SUFFIX,cdn.cloudflare.net
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,client-api.arkoselabs.com
-DOMAIN-SUFFIX,cloudflareinsights.com
-DOMAIN-SUFFIX,compute-pipe.com
-DOMAIN-SUFFIX,digitalocean.com
-DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,edgecompute.app
-DOMAIN-SUFFIX,events.statsigapi.net
-DOMAIN-SUFFIX,f7tk.com
-DOMAIN-SUFFIX,featuregates.org
-DOMAIN-SUFFIX,fileserviceuploadsperm.blob.core.windows.net
-DOMAIN-SUFFIX,fileserviceuploadsperm.blob.core.windows.net
-DOMAIN-SUFFIX,gpt3sandbox.com
-DOMAIN-SUFFIX,hcaptcha.com
-DOMAIN-SUFFIX,hsforms.com
-DOMAIN-SUFFIX,hsforms.net
-DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,livekit.cloud
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,openaicom.imgix.net
-DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
-DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,open-assistant.io
-DOMAIN-SUFFIX,persona-ai.com
-DOMAIN-SUFFIX,pki.goog
-DOMAIN-SUFFIX,poe.com
-DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
-DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
-DOMAIN-SUFFIX,quora.com
-DOMAIN-SUFFIX,revenuecat.com
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,statsigapi.net
-DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,stripe.network
-DOMAIN-SUFFIX,tutory-ai.com
-DOMAIN-SUFFIX,vimeo.com
-DOMAIN-SUFFIX,vimeocdn.com
-DOMAIN-SUFFIX,zapier.com
-DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,googletagmanager.com
-DOMAIN-SUFFIX,google.com
-DOMAIN-SUFFIX,gstatic.com
-
-
-# DOMAIN-KEYWORD
-
-DOMAIN-KEYWORD,hsforms
-DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD,openaiapi
-DOMAIN-KEYWORD,openaipublic
-DOMAIN-KEYWORD,stripe
-
-
-# IP-CIDR
-
 IP-CIDR,143.198.0.0/16,no-resolve
 IP-CIDR,159.203.0.0/16,no-resolve
 IP-CIDR,159.65.0.0/16,no-resolve
 IP-CIDR,165.22.0.0/16,no-resolve
-IP-CIDR,167.71.0.0/16,no-resolve
-IP-CIDR,174.138.0.0/16,no-resolve
