@@ -1,0 +1,4 @@
+# 内容：定义一些让它走本地的域名，防止进入漏网之鱼。
+
+DOMAIN-SUFFIX,pptv09.com
+DOMAIN-SUFFIX,dsxys.pro
