@@ -2,7 +2,6 @@
 
 DOMAIN,free.netfly.top
 DOMAIN,winsky.onrender.com
-DOMAIN,scamalytics.com
 DOMAIN,api.claude.ai
 DOMAIN,claude.ai
 DOMAIN,www.perplexity.ai
@@ -14,6 +13,7 @@ DOMAIN-SUFFIX,phind.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,scamalytics
 DOMAIN,geminiprochat.com
 DOMAIN-SUFFIX,geminiprochat.com
 DOMAIN-SUFFIX,scamalytics.com
