@@ -8,10 +8,13 @@
 # DOMAIN-SUFFIX,springer.com
 # DOMAIN-SUFFIX,springernature.io
 # DOMAIN-SUFFIX,springernature.com
-# DOMAIN-SUFFIX,eve-ng.net
-# DOMAIN-SUFFIX,yibook.org
-# DOMAIN-SUFFIX,z-library.se
+DOMAIN-SUFFIX,eve-ng.net
+DOMAIN-SUFFIX,yibook.org
+DOMAIN-SUFFIX,z-library.se
 # DOMAIN-SUFFIX,keysight.com
 # DOMAIN-SUFFIX,neuralrad.com
 # DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,elastic.co
+DOMAIN,annas-archive.org
+DOMAIN-KEYWORD,libgen
+DOMAIN-SUFFIX,library.lol
