@@ -86,3 +86,7 @@ DOMAIN-SUFFIX,powershellgallery.com
 # 在线电影站点
 DOMAIN-SUFFIX,pptv09.com
 DOMAIN-SUFFIX,dsxys.pro
+
+# 红帽子
+DOMAIN-SUFFIX,cdn.redhat.com
+DOMAIN-SUFFIX,redhat.com
