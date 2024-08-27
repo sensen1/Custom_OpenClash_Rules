@@ -90,3 +90,6 @@ DOMAIN-SUFFIX,dsxys.pro
 # 红帽子
 DOMAIN-SUFFIX,cdn.redhat.com
 DOMAIN-SUFFIX,redhat.com
+
+# 开源下载
+DOMAIN-SUFFIX,sourceforge.net
