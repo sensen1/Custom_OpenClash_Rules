@@ -1,7 +1,5 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
-; Repository: https://github.com/notgurev/switchyomega-russia-rules
 
 ; OpenAI, ChatGPT
 free.netfly.top
