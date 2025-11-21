@@ -94,7 +94,7 @@ custom_proxy_group=🇫🇷 法国节点`select`(French)
 custom_proxy_group=🇬🇧 英国节点`select`(United Kingdom)
 custom_proxy_group=🇮🇳 印度节点`select`(India|印度)
 custom_proxy_group=🇷🇺 俄国节点`select`(Russia)
-custom_proxy_group=🇺🇸 美国节点`select`(🇺🇸|美国|US|United States)
+custom_proxy_group=🇺🇸 美国节点`select`🇺🇸.*美国.*
 custom_proxy_group=🌐 其他地区`select`[]🎯 全球直连`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`.*
 
 enable_rule_generator=true
